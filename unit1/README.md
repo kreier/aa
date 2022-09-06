@@ -36,9 +36,9 @@ Template for decomposing an automated task
 
 ### 3-1 Shock Detector Case Study
 
-[Video 1](https://youtu.be/e2xGct1VtUk) and [Video 2](https://youtu.be/P6WIrlO7Vno)
-[API Description](https://docs.google.com/document/d/1n-AdkuavroyMzPZWvsoFD0uzaaGQqKvkenOW4S6F15o/edit?usp=sharing)
-[Starter code for students](https://docs.google.com/document/d/1wTmN4Vld7YhsWqiCh0UvgKstFQewss1yAlwlfFfodJM/edit?usp=sharing)
+- [Video 1](https://youtu.be/e2xGct1VtUk) and [Video 2](https://youtu.be/P6WIrlO7Vno)
+- [API Description](https://docs.google.com/document/d/1n-AdkuavroyMzPZWvsoFD0uzaaGQqKvkenOW4S6F15o/edit?usp=sharing)
+- [Starter code for students](https://docs.google.com/document/d/1wTmN4Vld7YhsWqiCh0UvgKstFQewss1yAlwlfFfodJM/edit?usp=sharing)
 
 ### 3-2 Accounts on Github and Replit
 Accounts for Collaboration in Advanced Automation
@@ -58,8 +58,9 @@ For each function, identify the inputs and outputs to the extent that you can.
 ### 5-1 Making Code Modular W3-1
 
 In this skill-building activity, you will follow along with the video below to convert a single program into modular code organized into functions
-[Module Maker - Starter Code](https://makecode.microbit.org/95577-10190-19998-13818)
-[YouTube Video Tutorial](https://youtu.be/TeL-2nfaPmU)
+
+- [Module Maker - Starter Code](https://makecode.microbit.org/95577-10190-19998-13818)
+- [YouTube Video Tutorial](https://youtu.be/TeL-2nfaPmU)
 
 
 ## 6 Module Maker - Creating modular code yourself!
@@ -102,7 +103,7 @@ Now that you've played with Drink Machine and have done some things the long way
 - [Video 3](https://youtu.be/e86X7hbPAIo) - wait ... wait ... I'm doing something
 
 
-## 9: Drink Machine Testing Software (2022/09/02)
+## 9: Drink Machine Testing Software
 
 ### 9-1 Drink Machine Testing Software
 
