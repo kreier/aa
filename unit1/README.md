@@ -22,7 +22,7 @@ Template for decomposing an automated task
 
 ### 1-4 Assignment Automation (Schoology)
 
-## 2 Introduction to Functions (2022/08/15)
+## 2 Introduction to Functions
 
 ### 2-1 Introduction to Functions
 [YouTube Explanation](https://youtu.be/PdFo0oPfExE) - Last week we started looking at ways to break tasks down into individual steps. This video formalizes this using the programming concept of a function. You'll learn some vocabulary of functions and ways to describe them using inputs, outputs, and how they relate to each other through algorithms.
