@@ -1,6 +1,18 @@
 # Functions and Modular Code
 
-Cross-reference: [/sites.google.com/ssis.edu.vn/automation/](https://sites.google.com/ssis.edu.vn/automation/units/functions-and-modular-code)
+Main repository: [https://github.com/ssis-aa/functions-and-modular-code](https://github.com/ssis-aa/functions-and-modular-code) (fork) and further cross-reference: [https://sites.google.com/ssis.edu.vn/automation/](https://sites.google.com/ssis.edu.vn/automation/units/functions-and-modular-code)
+
+## Overview
+
+1. [Welcome to Advanced Automation! ](#1-welcome-to-advanced-automation)
+2. [Introduction to Functions ](#2-introduction-to-functions)
+3. [Shock Detector Case Study ](#3-shock-detector-case-study)
+4. Mastery Check - Sketch of Functions 
+5. Making Code Modular 
+6. Module Maker - Creating modular code yourself! 
+7. Drink Machine Part I 
+8. Drink Machine Part II
+9. Drink Machine Testing Software 
 
 ## 1 Welcome to Advanced Automation! 
 

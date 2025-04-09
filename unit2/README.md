@@ -1,6 +1,6 @@
 # Managing State
 
-Cross-reference: [/sites.google.com/ssis.edu.vn/automation/unit2/](https://sites.google.com/ssis.edu.vn/automation/units/functions-and-modular-code)
+Main repository: [https://github.com/ssis-aa/managing-state](https://github.com/ssis-aa/managing-state) ([fork](https://github.com/kreier/managing-state))
 
 1. Binary Secret Code - Introduction to Abstraction
 2. Three Boards, Three Flavors
@@ -13,6 +13,42 @@ Cross-reference: [/sites.google.com/ssis.edu.vn/automation/unit2/](https://sites
 9. Inputs, Outputs, Hardware
 10. Levels of Abstraction I
 11. Levels of Abstraction II
+
+
+## 1. Binary Secret Code - Introduction to Abstraction
+
+## 2. Three Boards, Three Flavors
+
+## 3. Introduction to State Machine Programming - Escape to Summer Case Study
+
+## 4. Drink Dispenser State Machine
+
+## 5. Building a Physical Drink Dispenser State Machine
+
+## 6. Iterative Design
+
+## 7. Choosing your system 
+
+## 8. Microwave State Program 
+
+## 9. Inputs, Outputs, Hardware
+
+## 10. Levels of Abstraction I
+
+## 11. Levels of Abstraction II
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 1 Welcome to Advanced Automation! 
 
