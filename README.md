@@ -4,9 +4,11 @@
 ![GitHub License](https://img.shields.io/github/license/kreier/aa)
 [![pages-build-deployment](https://github.com/kreier/aa/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/kreier/aa/actions/workflows/pages/pages-build-deployment)
 
-A custom made course at SSIS thanks to the great support of Evan Weinberg [@emwdx](https://github.com/emwdx)
+Reference documents are hosted at [https://github.com/ssis-aa](https://github.com/ssis-aa). This course at SSIS was created by Evan Weinberg [@emwdx](https://github.com/emwdx).
 
 ## Unit 1: [Functions and Modular Code](./unit1)
+
+<img src="https://raw.githubusercontent.com/ssis-aa/.github/main/profile/microbit.gif" width="20%" align="right">
 
 1. [Welcome to Advanced Automation](https://github.com/kreier/aa/tree/main/unit1#1-welcome-to-advanced-automation)
 2. [Introduction to Functions](https://github.com/kreier/aa/tree/main/unit1#2-introduction-to-functions)
@@ -20,6 +22,8 @@ A custom made course at SSIS thanks to the great support of Evan Weinberg [@emwd
 
 
 ## Unit 2: [Managing State](./unit2)
+
+<img src="https://raw.githubusercontent.com/ssis-aa/.github/main/profile/drinkdispenser.jpg" width="20%" align="right">
 
 1. Binary Secret Code - Introduction to Abstraction
 2. Three Boards, Three Flavors
@@ -35,6 +39,8 @@ A custom made course at SSIS thanks to the great support of Evan Weinberg [@emwd
 
 
 ## Unit 3: [Collaborative Code and Generative Art](./unit3)
+
+<img src="https://github.com/kreier/circle_k/blob/main/result2.png" width="40%" align="right">
 
 1. Generative Art and the Circle K Project
 2. Design Project 
@@ -56,6 +62,8 @@ A custom made course at SSIS thanks to the great support of Evan Weinberg [@emwd
 
 ## Unit 4: [Control Algorithms and APIs](./unit4)
 
+<img src="https://github.com/ssis-aa/rvr2023/blob/main/docs/rvr2023.jpg" width="30%" align="right">
+
 1. Introduction Control Systems Board
 2. Carrier board rp2040 - physical and electrical connection
 3. The I2C Bus 
@@ -75,6 +83,8 @@ A custom made course at SSIS thanks to the great support of Evan Weinberg [@emwd
 
 
 ## Unit 5: [Machine Learning and Modifying Code](./unit5)
+
+<img src="https://raw.githubusercontent.com/ssis-aa/machine-learning/main/docs/ml_p5js_2023-03-17.png" width="45%" align="right">
 
 1. Sketch Classifier 
 2. Improving the Classifier 
