@@ -1,5 +1,9 @@
 # Advanced Automation
 
+![GitHub Release](https://img.shields.io/github/v/release/kreier/aa)
+![GitHub License](https://img.shields.io/github/license/kreier/aa)
+[![pages-build-deployment](https://github.com/kreier/aa/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/kreier/aa/actions/workflows/pages/pages-build-deployment)
+
 A custom made course at SSIS thanks to the great support of Evan Weinberg [@emwdx](https://github.com/emwdx)
 
 ## Unit 1: [Functions and Modular Code](./unit1)
@@ -108,7 +112,7 @@ The first **two standards** are a separate category with 33% weighting each. The
 
 <img src="docs/1x1.png" width="15%"><img src="docs/standards_matrix.png" width="70%">
 
-1.	**Document* design decisions using text, graphics, presentations, and/or demonstrations in the development of complex programs.
+1.	**Document** design decisions using text, graphics, presentations, and/or demonstrations in the development of complex programs.
 2.	**Design** and **iteratively develop** computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions. 
 3.	Decompose problems into smaller components through systematic analysis, using constructs such as procedures, modules, and/or objects. 
 4.	Construct solutions to problems using student-created components, such as procedures, modules and/or objects.
